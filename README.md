@@ -1,5 +1,7 @@
 # HW5 — LLM 微調：情緒分類與憂鬱症風險監測
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Qmo37/hw5-llm-emotion-depression/blob/main/HW5_LLM_Emotion_Depression.ipynb)
+
 **LoRA / Zero-shot / Few-shot**
 
 ## 專案概述
